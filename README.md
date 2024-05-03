@@ -1,6 +1,6 @@
 ## Dio Java-Básico
 
-Bem vindo a minha resolução di desafio proposto da trilha java básico do Bootcamp Santander 2024
+Bem vindo a minha resolução do desafio proposto da trilha java básico do Bootcamp Santander 2024
 
 ## Desafio
 
