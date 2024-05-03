@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Dio Java-Básico
 
 Bem vindo a minha resolução proposto no desafio da trilha java básico do Bootcamp Santander 2024
@@ -37,5 +36,4 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-santos-62271419a/)
 =======
-# dio-trilha-java-basico
->>>>>>> 6ce262a79ae90d35867e03fbcd5d5431356b0edd
+
